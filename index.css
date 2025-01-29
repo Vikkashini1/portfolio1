@@ -16,6 +16,7 @@
   --heading-font: "Raleway",  sans-serif;
   --nav-font: "Poppins",  sans-serif;
 }
+
 /* Global Colors - The following color variables are used throughout the website. Updating them here will change the color scheme of the entire website */
 :root { 
   --background-color: #ffffff; /* Background color for the entire website, including individual sections */
@@ -178,6 +179,10 @@ h6 {
   margin: 0;
   font-weight: 700;
   color: var(--heading-color);
+}
+.main-div
+{
+    margin-left: 330px;
 }
 
 .header .social-links {
